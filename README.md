@@ -2,4 +2,4 @@
 
 
 
-Hello Maven 2
+Hello Maven 2 
